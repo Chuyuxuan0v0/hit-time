@@ -1,15 +1,13 @@
 <script setup>
-import { ref } from 'vue'
-import TimeNow from './components/TimeNow.vue'
-import RunArea from './components/RunArea.vue'
-const numbers = ref(12)
+import TimeNow from './components/TimeNow.vue';
+import RunArea from './components/RunArea.vue';
+import Toast from './components/Toast.vue';
 </script>
 
 <template>
-  <input v-model="numbers">
-  <TimeNow></TimeNow>
+  <Toast></Toast>
   <RunArea></RunArea>
-  <Circle :percentagePar="numbers"></Circle>
+  <TimeNow></TimeNow>
 </template>
 
 <style scoped>
