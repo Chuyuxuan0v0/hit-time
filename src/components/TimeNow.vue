@@ -54,9 +54,10 @@ const padZero = (value, length = 2) => {
 .time_area {
   display: flex;
   justify-content: center;
+  color: #c3b3b3;
 }
 span {
-  width: 100px;
+  width: 65px;
 }
 h4{
     display: inline;

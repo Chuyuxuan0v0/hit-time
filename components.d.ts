@@ -11,6 +11,5 @@ declare module 'vue' {
     ElProgress: typeof import('element-plus/es')['ElProgress']
     RunArea: typeof import('./src/components/RunArea.vue')['default']
     TimeNow: typeof import('./src/components/TimeNow.vue')['default']
-    Toast: typeof import('./src/components/Toast.vue')['default']
   }
 }
