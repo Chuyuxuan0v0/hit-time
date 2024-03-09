@@ -1,7 +1,11 @@
-# Vue 3 + Vite
+# HIT 减脂辅助计时器
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+这是一个用于辅助减脂的计时器。
 
-## Recommended IDE Setup
+项目在线地址: [https://hit-exercise.chuyuxuan.top](https://hit-exercise.chuyuxuan.top)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+自用，如果你有自己的想法，欢迎提出issue或者pull request。
+
+## 演示效果
+![演示效果](./readme_show.gif)
+
